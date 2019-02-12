@@ -79,3 +79,29 @@ We will follow the book "Python Data Analytics"
 ## Saving your charts
 ## Handling date values
 ## Chart Typology
+## Line Charts
+## Histograms
+## Bar Charts
+## Pie Charts
+## Advanced Charts
+## mplot3D toolkit
+## Multi-Panel
+# Session 08 Scikit-Learn
+## Iris flower dataset
+## K-Nearest neighbors
+## Diabetes Dataset
+## Linear Regression
+## SVM
+# Session 09 Deep Learning
+## AI, Machine Learning and Deep Learning
+## Deep learning
+## Artificial Neural Networks
+## TensorFlow
+# Session 10 An Example
+## A hypothesis to be tested
+## Finding the data source
+## Jupyter
+# Session 11 JavaScript D3
+# Session 12 Handwritten Digits
+# Session 13 Textual Data Analysis with NLTK
+# Session 14 OpenCV
