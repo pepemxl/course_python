@@ -2,6 +2,10 @@ site_name: Curso de Algoritmos y Estructuras de Datos con Python
 site_description: Un sitio para aprender Python y Algoritmos
 site_author: Jose Alonzo
 nav:
+  - 'Introducción': 'index.md'
+  - 'Fundamentos de Python':
+    - 'Fundamentos': '01_intro_python/01_fundamentos_basicos.md'
+    - 'Control de Flujo': '01_intro_python/02_control_de_flujo.md'
   - 'Algoritmos':
     - 'Shortest Path':
       - 'Inicio': '02_algoritmos/shortest_path/intro.md'
