@@ -7,13 +7,12 @@ nav:
     - 'Fundamentos': '01_intro_python/01_fundamentos_basicos.md'
     - 'Control de Flujo': '01_intro_python/02_control_de_flujo.md'
   - 'Algoritmos':
-    - 'Shortest Path':
-      - 'Inicio': '02_algoritmos/shortest_path/intro.md'
-    # - 'Timeline': 
     - 'Patrones DP':
+      - 'Lista de Patrones': '05_problem_solving/dynamic_programming_patterns.md'
+      - 'Programación Dinámica': '02_algoritmos/dynamic_programming/01_top_down_bottom_up.md'
       - 'Secuencia de Fibonacci': '05_problem_solving/dp_01_fibonacci.md'
-      # - 'Algoritmoa de Kadane': ''
-      # - '0/1 Knapsack': ''
+      - 'Algoritmo de Kadane': '02_algoritmos/dynamic_programming/02_kadane.md'
+      - '0/1 Knapsack': '02_algoritmos/dynamic_programming/03_knapsack.md'
       # - 'Knapsack sin limites': ''
       # - 'Longest Common Subsequence ': ''
       # - 'Longest Increasing Subsequence': ''
@@ -31,6 +30,9 @@ nav:
       # - 'Bitmasking DP': ''
       # - 'Probability DP': ''
       # - 'State Machine DP': ''
+    - 'Shortest Path':
+      - 'Inicio': '02_algoritmos/shortest_path/intro.md'
+    # - 'Timeline': 
   - 'High Performance Python':
     - 'Introducción': '05_hpc/intro.md'
   
